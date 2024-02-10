@@ -538,7 +538,7 @@ function ModalRender({
                   )
                 }
               >
-                Close
+                Save
               </button>
             </div>
           </div>
@@ -597,7 +597,7 @@ function TransactionRender({ trans }) {
       <input
         className={"input w-full max-w-xs " + trans}
         id="trans"
-        placeholder="Leave empty if new transaction"
+        placeholder="Transaction ID"
         type="text"
       />
     </>
