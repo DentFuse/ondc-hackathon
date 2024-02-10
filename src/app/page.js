@@ -184,7 +184,7 @@ function AddConditionModal({ id, conditions, setConditions, role }) {
         <input
           className={"input w-full max-w-xs " + conditionError}
           id="conditionInput"
-          placeholder="Leave empty if new transaction"
+          placeholder="New Condition"
           type="text"
         />
         <div className="modal-action">
