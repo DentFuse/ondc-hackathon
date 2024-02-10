@@ -1,0 +1,3 @@
+{
+    "connect": "mongodb+srv://ondc-hack:ondc-hack@cluster0.vqada.mongodb.net/ondc?retryWrites=true&w=majority"
+}
